@@ -1,6 +1,6 @@
 # A Vingança de Blaid 2D
 
-Desenvolvido seguindo aulas do Alura
+Desenvolvido em Unity seguindo aulas do Alura
 
 ![image](https://github.com/user-attachments/assets/e0c6a037-9fa3-48a6-9225-cc9898ff48f4)
 
